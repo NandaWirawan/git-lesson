@@ -1,4 +1,4 @@
-#Git Lesson
+# Git Lesson
 
 **Location:** Department of Computer Science, Room: COM-108 - Ada Lovelace Room.
 
