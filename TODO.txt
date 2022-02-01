@@ -1,0 +1,7 @@
+
+- Creating your first repository (done)
+- Add a file to the repo (done)
+- Check out the Git history (done)
+- Hands-On Exercise
+- Pulling from a remote source
+- Minor note about the difference between Git, GitHub, and GitHub Desktop
